@@ -15,9 +15,9 @@ import matplotlib.pyplot as plt
 
 """# Read data"""
 
-data = pd.read_csv('https://raw.githubusercontent.com/Nazifatul-Fadhilah/Data/main/Data%20Persentase%20kemiskinan%20Sumatera%20Utara%202001-2022(1).csv',index_col='Tahun',parse_dates=True)
+data = pd.read_csv('dataPresentaseKemiskinanSumut2001-2022(1).csv',index_col='Tahun',parse_dates=True)
 
-df = pd.read_csv('https://raw.githubusercontent.com/Nazifatul-Fadhilah/Data/main/Data%20Persentase%20kemiskinan%20Sumatera%20Utara%202001-2022.csv',index_col='Tahun',parse_dates=True)
+df = pd.read_csv('dataPresentaseKemiskinanSumut2001-2022.csv',index_col='Tahun',parse_dates=True)
 
 df
 
