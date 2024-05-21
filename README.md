@@ -1,5 +1,5 @@
-Prediksi Persentase Kemiskinan Provinsi Sumatera Utara Menggunakan LSTM 
-<br>
+<h1>Prediksi Persentase Kemiskinan Provinsi Sumatera Utara Menggunakan LSTM</h1>
+Menggunakan data persentase kemiskinan Provinsi Sumatera Utara tahun 2001-2022.
 <img src='https://github.com/Nazifatul-Fadhilah/prediksi-persentase-kemiskinan-sumatera-utara/blob/main/visualisasipbi.png'/>
 <br> <br>
 Didapatkan hasil seperti berikut ini
