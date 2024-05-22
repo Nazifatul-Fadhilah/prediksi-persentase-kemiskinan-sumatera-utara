@@ -4,10 +4,10 @@ Menggunakan data persentase kemiskinan Provinsi Sumatera Utara tahun 2001-2022.
 <br> <br>
 Didapatkan hasil seperti berikut ini
 <ul>
-<li> Pada Modelling data, model yang paling optimal adalah model dengan kombinasi parameter 64 neuron pada hidden layer dan melakukan pelatihan sebanyak 100 epochs menghasilkan nilai error sebesar 0,01270. </li>
-<li> Pada testing data, didapati hasil seperti berikut. <br>
-   <img src='https://github.com/Nazifatul-Fadhilah/prediksi-persentase-kemiskinan-sumatera-utara/blob/main/prediksi%20data.png'/>
+   <li> Pada Modelling data, model yang paling optimal adalah model dengan kombinasi parameter 64 neuron pada hidden layer dan melakukan pelatihan sebanyak 100 epochs menghasilkan nilai error sebesar 0,01270. 
    </li>
-3. Dan dari model yang dibangun, didapati hasil prediksi persentase kemiskinan Provinsi Sumatera tahun 2023 adalah sebesar 9,37%. Dari angka tersebut, dapat diketahui bahwa terjadi kenaikan persentase 
-kemiskinan sebesar 0,95% dibandingkan dengan data aktual tahun 2022.
+   <li> Pada testing data, didapati hasil seperti berikut. <br>
+      <img src='https://github.com/Nazifatul-Fadhilah/prediksi-persentase-kemiskinan-sumatera-utara/blob/main/prediksi%20data.png'/>
+   </li>
+   <li> Selain itu, dari model yang dibangun didapati hasil prediksi persentase kemiskinan Provinsi Sumatera tahun 2023 adalah sebesar 9,37%. Dari angka tersebut, dapat diketahui bahwa terjadi kenaikan persentase kemiskinan sebesar 0,95% dibandingkan dengan data aktual tahun 2022. </li>
 </ul>
